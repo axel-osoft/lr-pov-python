@@ -1,5 +1,5 @@
 
 
 def f2(v:int) -> int:
-  return 123456
+  return 1234
   
