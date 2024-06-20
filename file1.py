@@ -1,5 +1,5 @@
 
 
-def f()->str:
+def f(s: str)->str:
   return "file"
 
