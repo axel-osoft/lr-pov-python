@@ -1,5 +1,5 @@
 
 
-def f2() -> int:
+def f2(unused_param:int) -> int:
   return 0
   
