@@ -1,7 +1,7 @@
 
 
 def f(s: str)->str:
-  return "file xyxz"
+  return "file xy"
 
 
 
