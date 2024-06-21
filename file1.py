@@ -7,7 +7,7 @@ app = Flask(__name__)
 def login():
     dynamodb = AWS_SESSION.client('dynamodb')
 
-    username = request.args["username"]
+    username = request.args["usernaxxme"]
     password = request.args["password"]
 
     dynamodb.scan(
